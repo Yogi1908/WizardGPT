@@ -1,1 +1,1 @@
-go to wizardgpt.netflify.app to check it
+go to wizardgpt.netlify.app to check it
